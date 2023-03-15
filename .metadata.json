@@ -1,14 +1,14 @@
 [
   {
+    "package": "adegenet",
+    "oncran": true
+  },
+  {
     "package": "apex",
     "oncran": true
   },
   {
     "package": "treespace",
-    "oncran": true
-  },
-  {
-    "package": "adegenet",
     "oncran": true
   }
 ]
